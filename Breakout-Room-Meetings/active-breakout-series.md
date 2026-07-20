@@ -3,13 +3,13 @@
 This table is automatically updated based on issues in the ethereum/pm repo.
 A breakout is considered "active" if it has a meeting date within the past 3 months.
 
-*Last updated: 2026-07-13 08:01 UTC (updated weekly)*
+*Last updated: 2026-07-20 07:59 UTC (updated weekly)*
 
 | Call Series | Facilitator | Latest | Issue |
 |-------------|-------------|--------|-------|
 | All Wallet Devs | [@SamWilsn](https://github.com/SamWilsn) | 2026-07-15 | [Link](https://github.com/ethereum/pm/issues/2139) |
-| EIP Editing Office Hour | [@poojaranjan](https://github.com/poojaranjan) | 2026-07-07 | [Link](https://github.com/ethereum/pm/issues/2150) |
-| EIPIP Meeting | [@poojaranjan](https://github.com/poojaranjan) | 2026-07-08 | [Link](https://github.com/ethereum/pm/issues/2106) |
+| EIP Editing Office Hour | [@poojaranjan](https://github.com/poojaranjan) | 2026-07-21 | [Link](https://github.com/ethereum/pm/issues/2160) |
+| EIPIP Meeting | [@poojaranjan](https://github.com/poojaranjan) | 2026-08-12 | [Link](https://github.com/ethereum/pm/issues/2159) |
 | Encrypt the Mempool | [@jflo](https://github.com/jflo) | 2026-06-24 | [Link](https://github.com/ethereum/pm/issues/2118) |
 | Fast Confirmation Rule | [@mkalinin](https://github.com/mkalinin) | 2026-07-21 | [Link](https://github.com/ethereum/pm/issues/2149) |
 | FOCIL Breakout | [@jihoonsong](https://github.com/jihoonsong) | 2026-07-21 | [Link](https://github.com/ethereum/pm/issues/2146) |
