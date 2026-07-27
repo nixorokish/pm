@@ -3,20 +3,20 @@
 This table is automatically updated based on issues in the ethereum/pm repo.
 A breakout is considered "active" if it has a meeting date within the past 3 months.
 
-*Last updated: 2026-07-20 07:59 UTC (updated weekly)*
+*Last updated: 2026-07-27 08:07 UTC (updated weekly)*
 
 | Call Series | Facilitator | Latest | Issue |
 |-------------|-------------|--------|-------|
 | All Wallet Devs | [@SamWilsn](https://github.com/SamWilsn) | 2026-07-15 | [Link](https://github.com/ethereum/pm/issues/2139) |
 | EIP Editing Office Hour | [@poojaranjan](https://github.com/poojaranjan) | 2026-07-21 | [Link](https://github.com/ethereum/pm/issues/2160) |
 | EIPIP Meeting | [@poojaranjan](https://github.com/poojaranjan) | 2026-08-12 | [Link](https://github.com/ethereum/pm/issues/2159) |
-| Encrypt the Mempool | [@jflo](https://github.com/jflo) | 2026-06-24 | [Link](https://github.com/ethereum/pm/issues/2118) |
-| Fast Confirmation Rule | [@mkalinin](https://github.com/mkalinin) | 2026-07-21 | [Link](https://github.com/ethereum/pm/issues/2149) |
+| Encrypt the Mempool | [@jflo](https://github.com/jflo) | 2026-07-22 | [Link](https://github.com/ethereum/pm/issues/2165) |
+| Fast Confirmation Rule | [@mkalinin](https://github.com/mkalinin) | 2026-08-04 | [Link](https://github.com/ethereum/pm/issues/2167) |
 | FOCIL Breakout | [@jihoonsong](https://github.com/jihoonsong) | 2026-07-21 | [Link](https://github.com/ethereum/pm/issues/2146) |
 | Glamsterdam Repricings | [@misilva73](https://github.com/misilva73) | 2026-05-27 | [Link](https://github.com/ethereum/pm/issues/2082) |
 | L1-zkEVM Breakout | [@ladidan](https://github.com/ladidan) | 2026-07-08 | [Link](https://github.com/ethereum/pm/issues/2148) |
-| PQ Interop | [@tcoratger](https://github.com/tcoratger) | 2026-07-08 | [Link](https://github.com/ethereum/pm/issues/2153) |
-| PQ Transaction Signatures | [@asanso](https://github.com/asanso) | 2026-06-24 | [Link](https://github.com/ethereum/pm/issues/2124) |
+| PQ Interop | [@tcoratger](https://github.com/tcoratger) | 2026-07-22 | [Link](https://github.com/ethereum/pm/issues/2169) |
+| PQ Transaction Signatures | [@asanso](https://github.com/asanso) | 2026-07-22 | [Link](https://github.com/ethereum/pm/issues/2164) |
 | RPC Standards | [@bomanaps](https://github.com/bomanaps) | 2026-07-13 | [Link](https://github.com/ethereum/pm/issues/2154) |
 | Stateless Implementers | [@gabrocheleau](https://github.com/gabrocheleau) | 2026-06-01 | [Link](https://github.com/ethereum/pm/issues/2064) |
 
