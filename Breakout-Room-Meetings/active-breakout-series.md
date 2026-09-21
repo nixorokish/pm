@@ -3,7 +3,7 @@
 This table is automatically updated based on issues in the ethereum/pm repo.
 A breakout is considered "active" if it has a meeting date within the past 3 months.
 
-*Last updated: 2026-09-14 13:28 UTC (updated weekly)*
+*Last updated: 2026-09-21 13:27 UTC (updated weekly)*
 
 | Call Series | Facilitator | Latest | Issue |
 |-------------|-------------|--------|-------|
@@ -16,7 +16,7 @@ A breakout is considered "active" if it has a meeting date within the past 3 mon
 | L1-zkEVM Breakout | [@jsign](https://github.com/jsign) | 2026-09-09 | [Link](https://github.com/ethereum/pm/issues/2215) |
 | PQ Interop | [@tcoratger](https://github.com/tcoratger) | 2026-07-29 | [Link](https://github.com/ethereum/pm/issues/2176) |
 | PQ Transaction Signatures | [@asanso](https://github.com/asanso) | 2026-09-16 | [Link](https://github.com/ethereum/pm/issues/2220) |
-| RPC Standards | [@bomanaps](https://github.com/bomanaps) | 2026-09-07 | [Link](https://github.com/ethereum/pm/issues/2213) |
+| RPC Standards | [@bomanaps](https://github.com/bomanaps) | 2026-09-21 | [Link](https://github.com/ethereum/pm/issues/2228) |
 
 ## Inactive Series
 
