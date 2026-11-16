@@ -3,17 +3,17 @@
 This table is automatically updated based on issues in the ethereum/pm repo.
 A breakout is considered "active" if it has a meeting date within the past 3 months.
 
-*Last updated: 2026-11-09 16:57 UTC (updated weekly)*
+*Last updated: 2026-11-16 07:06 UTC (updated weekly)*
 
 | Call Series | Facilitator | Latest | Issue |
 |-------------|-------------|--------|-------|
 | EIP Editing Office Hour | [@poojaranjan](https://github.com/poojaranjan) | 2026-11-10 | [Link](https://github.com/ethereum/pm/issues/2297) |
 | EIPIP Meeting | [@poojaranjan](https://github.com/poojaranjan) | 2026-11-18 | [Link](https://github.com/ethereum/pm/issues/2288) |
-| Encrypt the Mempool | [@jflo](https://github.com/jflo) | 2026-10-14 | [Link](https://github.com/ethereum/pm/issues/2240) |
+| Encrypt the Mempool | [@jflo](https://github.com/jflo) | 2026-11-11 | [Link](https://github.com/ethereum/pm/issues/2300) |
 | FOCIL Breakout | [@jihoonsong](https://github.com/jihoonsong) | 2026-11-17 | [Link](https://github.com/ethereum/pm/issues/2289) |
 | L1-zkEVM Breakout | [@jsign](https://github.com/jsign) | 2026-10-14 | [Link](https://github.com/ethereum/pm/issues/2269) |
-| PQ Transaction Signatures | [@asanso](https://github.com/asanso) | 2026-10-28 | [Link](https://github.com/ethereum/pm/issues/2283) |
-| RPC Standards | [@bomanaps](https://github.com/bomanaps) | 2026-10-19 | [Link](https://github.com/ethereum/pm/issues/2277) |
+| PQ Transaction Signatures | [@asanso](https://github.com/asanso) | 2026-11-11 | [Link](https://github.com/ethereum/pm/issues/2298) |
+| RPC Standards | [@bomanaps](https://github.com/bomanaps) | 2026-11-16 | [Link](https://github.com/ethereum/pm/issues/2301) |
 
 ## Inactive Series
 
